@@ -5,8 +5,7 @@
 /.pnp
 .pnp.js
 yarn.lock
-package-lock.json
-/color.js*
+package-lock.jsop
 /src/assets/theme/*.json
 # testing
 /coverage
