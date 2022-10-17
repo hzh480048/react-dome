@@ -13,8 +13,6 @@ package-lock.jsop
 
 # production
 /react-ant-admin
-/public/color.less
-/public/index.html
 # misc
 .DS_Store
 .env.local
